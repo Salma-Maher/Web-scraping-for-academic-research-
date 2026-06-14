@@ -18,3 +18,7 @@ Export results to Excel,
 Identify top papers for survey studies,
 Support recent publications (2020–2026),
 Generate research-ready datasets,
+
+git clone https://github.com/Salma-Maher/Web-scraping-for-academic-research.git
+cd Web-scraping-for-academic-research
+python main.py
